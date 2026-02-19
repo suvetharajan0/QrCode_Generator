@@ -1,6 +1,6 @@
 {
-  "name": "qrcodegenerator",
-  "homepage": "https://suvethrajan0.github.io/QrCode_Generator",
+  "name": "QrcodeGenerator",
+  "homepage": "https://suvethrajan0.github.io/QrCode_Generator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

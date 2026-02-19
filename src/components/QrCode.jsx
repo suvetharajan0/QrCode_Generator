@@ -1,7 +1,7 @@
 import React from "react"
 import { useState } from "react"
 import './QrCodes.css'
-+ function QrCode (){
+function QrCode (){
    const [img,setImg]=useState("");
    const [loading,setLoading]=useState(false)
    const [qrData,setQrData]=useState("Enter your data for qr code");
